@@ -1,0 +1,12 @@
+.home-container {
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.home-title {
+  font-size: xx-large;
+  margin-bottom: 1em;
+  color: var(--blue);
+  text-transform: uppercase;
+  text-align: center;
+}
