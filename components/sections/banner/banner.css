@@ -19,6 +19,7 @@
   -webkit-filter: brightness(104%) saturate(104%) contrast(90%);
   -moz-filter: brightness(104%) saturate(104%) contrast(90%);
   object-fit: cover;
+  object-position: -391px 0;
 }
 
 .banner-controls-container {
@@ -93,6 +94,10 @@ input[type="number"]::-webkit-outer-spin-button {
   .banner-form-button {
     margin: 0;
     width: max-content;
+  }
+
+  .banner-img {
+    object-position: unset;
   }
 }
 
