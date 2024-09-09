@@ -7,8 +7,8 @@ import Footer from "@/components/sections/football/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Chicken Website",
-  description: "Selling the best livestock since we arrived.",
+  title: "Chase Supply",
+  description: "High quality premium chicken delivery.",
 };
 
 export default function RootLayout({ children }) {

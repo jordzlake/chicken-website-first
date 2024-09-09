@@ -7,6 +7,29 @@
   --header-height: 5.2em;
 }
 
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 5px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--white);
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--pink);
+  border: none;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--blue);
+}
+
+::-moz-scrollbar-button,
+::-webkit-scrollbar-button {
+  width: 0px;
+}
+
 * {
   box-sizing: border-box;
   padding: 0;

@@ -25,12 +25,12 @@ const Header = () => {
         </li>
         <li className="nav-link link">
           <Link className="nav-link-text" href="#">
-            About
+            Schedule
           </Link>
         </li>
         <li className="nav-link link">
           <Link className="nav-link-text" href="#">
-            Schedule
+            About
           </Link>
         </li>
       </ul>
@@ -50,12 +50,12 @@ const Header = () => {
           </li>
           <li className="mobile-nav-link link">
             <Link className="mobile-nav-link-text" href="#">
-              About
+              Schedule
             </Link>
           </li>
           <li className="mobile-nav-link link">
             <Link className="mobile-nav-link-text" href="#">
-              Schedule
+              About
             </Link>
           </li>
         </ul>

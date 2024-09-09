@@ -26,12 +26,12 @@ const Footer = () => {
         </li>
         <li className="footer-link">
           <Link className="footer-link-text link" href="#">
-            About
+            Schedule
           </Link>
         </li>
         <li className="footer-link">
           <Link className="footer-link-text link" href="#">
-            Schedule
+            About
           </Link>
         </li>
       </ul>
