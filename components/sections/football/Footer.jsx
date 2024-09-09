@@ -16,7 +16,7 @@ const Footer = () => {
           <FontAwesomeIcon className="footer-brand-icon" icon={faInstagram} />
           <FontAwesomeIcon className="footer-brand-icon" icon={faTiktok} />
         </div>
-        <div className="footer-text">Copyright &copy; Regal Roost 2024</div>
+        <div className="footer-text">Copyright &copy;Chase Supply 2024</div>
       </div>
       <ul className="footer-second-container">
         <li className="footer-link">

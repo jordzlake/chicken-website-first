@@ -74,6 +74,12 @@ input[type="number"]::-webkit-outer-spin-button {
   color: var(--white);
 }
 
+@media (min-width: 500px) {
+  .banner-img {
+    object-position: unset;
+  }
+}
+
 @media (min-width: 768px) {
   .banner-controls-container {
     width: 80%;
